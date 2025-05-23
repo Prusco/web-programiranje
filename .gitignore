@@ -1,0 +1,13 @@
+# Ignoriši node_modules
+travel-agency/node_modules/
+
+# Ignoriši sistemske fajlove
+.DS_Store
+Thumbs.db
+
+# Ignoriši logove
+*.log
+
+# Ignoriši IDE fajlove
+.vscode/
+.idea/
